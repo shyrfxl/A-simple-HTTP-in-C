@@ -1,0 +1,8 @@
+A simple HTTP in C
+
+Make Instructions:
+
+Linux Lab && NetBSD: make
+
+OMNIOS: add "-I/usr/include/ast" when compiling the http.c
+
